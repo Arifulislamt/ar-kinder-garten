@@ -3,7 +3,6 @@ import './Card.css';
 
 const Card = (props) => {
     const { images, courses, price, details } = props.card;
-    console.log(props)
     return (
         <div className="col">
             <div className="card h-100">
