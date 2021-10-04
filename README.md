@@ -1,4 +1,4 @@
-# Welcome to our mini kinder garten
+# Welcome to our mini kinder Garten Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
