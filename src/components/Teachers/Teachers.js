@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import TeCard from '../TeCard/TeCard';

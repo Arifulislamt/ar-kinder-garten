@@ -1,6 +1,6 @@
 // import React, { useState } from 'react';
 import { useState } from 'react';
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 import AllCard from '../AllCard/AllCard';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';

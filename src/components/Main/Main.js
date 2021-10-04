@@ -1,6 +1,6 @@
 
 import { useState } from 'react';
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 import Card from '../Card/Card';
 import './Main.css';
 
