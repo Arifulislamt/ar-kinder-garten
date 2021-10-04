@@ -1,0 +1,12 @@
+.footer-costom{
+    background-color: #031d1d;
+}
+.costom-fimg img{
+    width: 250px;
+}
+.costom-hobar{
+    color: white;
+}
+.costom-hobar:hover{
+    color: #bb1903;
+}

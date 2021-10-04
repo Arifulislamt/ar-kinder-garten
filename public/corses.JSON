@@ -1,0 +1,65 @@
+[
+   {
+     "id": 1,
+     "courses": "Dance Steps",
+     "price": 5000,
+     "images": "https://i.ibb.co/djFfwHf/05-Hero-715x477.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   },
+   {
+     "id": 2,
+     "courses": "Best Teaching Methods",
+     "price": 5000,
+     "images": "https://i.ibb.co/nLQQLBc/Kids-go-back-to-school-Children-study-and-learn-for-preschool-Boy-and-girl-of-elementary-class-doing.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   },
+   {
+     "id": 3,
+     "courses": "Drawing",
+     "price": 5000,
+     "images": "https://i.ibb.co/8b6Yqxt/Children-Drawing-1-1280x720.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   },
+   {
+     "id": 4,
+     "courses": "Digital learning",
+     "price": 5000,
+     "images": "https://i.ibb.co/w7BF0zM/e-learning-give-preschool-kids-perfect-study-resource-asia-cute-sweet-children-typing-with-computer.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   },
+   {
+     "id": 5,
+     "courses": "Cocking",
+     "price": 5000,
+     "images": "https://i.ibb.co/zN1wg6J/daughter-chef-hat-stirring-bowl-mother.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   },
+   {
+     "id": 6,
+     "courses": "Pet Caring",
+     "price": 5000,
+     "images": "https://i.ibb.co/X5JQ3d4/file-20180316-104671-6usulp.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   },
+   {
+     "id": 7,
+     "courses": "Happy Gardening",
+     "price": 5000,
+     "images": "https://i.ibb.co/Hxf0BN3/Mother-and-Kids-Gardening.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   },
+   {
+     "id": 8,
+     "courses": "First Exploration",
+     "price": 5000,
+     "images": "https://i.ibb.co/C7ZPf8n/toys-to-grow-with-preschooler-v1-hero.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   },
+   {
+     "id": 9,
+     "courses": "Build creativity",
+     "price": 5000,
+     "images": "https://i.ibb.co/g3qb4V7/children-286239-1920.jpg",
+     "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+   }
+ ]

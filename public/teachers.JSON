@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Mandy Jackson",
+    "rank": "FIRST YEAR TEACHER",
+    "images": "https://i.ibb.co/mGVyvC6/image-happy-young-business-woman-260nw-1215373642.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  },
+  {
+    "id": 2,
+    "name": "Kaylin Moore",
+    "rank": "SECOND YEAR TEACHER",
+    "images": "https://i.ibb.co/HC4Fwgv/portrait-face-beautiful-attractive-smile-260nw-1939534486.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  },
+  {
+    "id": 3,
+    "name": "Jane Taylor",
+    "rank": "THIRD YEAR TEACHER",
+    "images": "https://i.ibb.co/XYb6nxc/Stylish-confident-adult-50-years-old-Asian-female-psychologist-standing-arms-crossed-looking-at-came.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  },
+  {
+    "id": 4,
+    "name": "Gwen Jones",
+    "rank": "FOURTH TEACHER",
+    "images": "https://i.ibb.co/M1v2Xnb/Mature-female-CEO-with-arms-crossed-Confident-businesswoman-is-against-white-background-Portrait-of.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  },
+  {
+    "id": 5,
+    "name": "Jenny Brown",
+    "rank": "FIRST YEAR TEACHER",
+    "images": "https://i.ibb.co/VVHvwFT/smiling-middle-aged-woman-with-folded-arms-116407-1152.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  },
+  {
+    "id": 6,
+    "name": "Edith Williams",
+    "rank": "FOURTH YEAR TEACHER",
+    "images": "https://i.ibb.co/nk9zDzB/download.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  }
+]

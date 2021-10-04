@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "courses": "Dance Steps",
+    "price": 5000,
+    "images": "https://i.ibb.co/djFfwHf/05-Hero-715x477.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  },
+  {
+    "id": 2,
+    "courses": "Best Teaching Methods",
+    "price": 5000,
+    "images": "https://i.ibb.co/nLQQLBc/Kids-go-back-to-school-Children-study-and-learn-for-preschool-Boy-and-girl-of-elementary-class-doing.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  },
+  {
+    "id": 3,
+    "courses": "Drawing",
+    "price": 5000,
+    "images": "https://i.ibb.co/8b6Yqxt/Children-Drawing-1-1280x720.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  },
+  {
+    "id": 4,
+    "courses": "Digital learning",
+    "price": 5000,
+    "images": "https://i.ibb.co/w7BF0zM/e-learning-give-preschool-kids-perfect-study-resource-asia-cute-sweet-children-typing-with-computer.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula. Nullam augue augue."
+  }
+]
